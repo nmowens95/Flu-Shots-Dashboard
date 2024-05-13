@@ -5,13 +5,13 @@ Objectives:
 	b. Race
 	c. County (Map)
 	d. Overall
-2) Running total of flu shots over the course of 2022
+2) Total number of shot by month in 2022
 3) Total number of flu shots give in 2022
 4) List of patients that show whether or not they recieved the flu shots
 
 Other requirements
 - Patient is alive
-- Patient is at least 6 months (age it is recommended to start flu shot)
+- Patient is at least 6 months (age recommended to start the flu shot)
 
 */
 
