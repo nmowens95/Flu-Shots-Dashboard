@@ -13,7 +13,7 @@ NOTE: This data is fake data that is supposed to be located around the state of 
 - Race
 - County (Map)
 - Overall
-2) Running total of flu shots over the course of 2022
+2) Monthly total of shots over the course of 2022
 3) Total number of flu shots give in 2022
 4) List of patients that show whether or not they recieved the flu shots
 
