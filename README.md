@@ -72,5 +72,5 @@ WHERE 1=1
 
 ## <h2 align="center">Suggestions</h2>
 - We should push for colleges to advocate or set up workshops to get the flu shot as well as businesses to target the younger populations.
-- There may need to be a need for campaigning to help push the agenda in places like Hampshire county and Duke county with under 60% compliance rates for the white and other ethnicites.
-- Flu shots are generally most effective and advocated to be give around Spring, thus there should be a greater education on people to get their shot earlier in the year by their doctors and possible campaigning.
+- There may be a need for campaigning to help push the agenda in places like Hampshire county and Duke county where the compliance rates are below 60% for the white and other category ethnicites.
+- Flu shots are generally most effective and advocated to be given around the Spring, thus there should be a greater education for people to get their shot earlier in the year by their doctors with the possible help from campaigning.
