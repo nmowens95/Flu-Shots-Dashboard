@@ -1,6 +1,8 @@
 # <h1 align="center">Flu Shots Dashboard</h1>
+![flu shots dash](https://github.com/nmowens95/Flu-Shots-Dashboard/assets/126295718/1a086a0e-e2fc-4889-b6c4-5eb3be02a329)
+</br>
 
-![flu shots dash](https://github.com/nmowens95/Flu-Shots-Dashboard/assets/126295718/47bb9444-5336-497d-971c-e665a74a3d01)
+
 NOTE: This data is fake data that is supposed to be located around the state of Massachusets
 - The data was obtained and uploaded into a PostgreSQL database, transformed and then visualized in Power BI.
   
